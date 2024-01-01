@@ -1,0 +1,11 @@
+.listWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+.navList {
+    font-size: 15px; 
+}
