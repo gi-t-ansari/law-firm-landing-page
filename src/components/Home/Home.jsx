@@ -5,7 +5,7 @@ import styles from "./Home.module.css"
 
 function Home() {
   return (
-    <div className={styles.homeWrapper}>
+    <div className={styles.homeWrapper} id='home'>
         <Navbar />
         <Hero />
     </div>
