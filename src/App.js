@@ -3,6 +3,8 @@ import Home from "./components/Home/Home";
 import IntroSection from "./components/IntroSection/IntroSection";
 import WhyUs from "./components/WhyUs/WhyUs";
 import PracticeArea from "./components/PracticeArea/PracticeArea";
+import Clients from "./components/Clients/Clients";
+import Team from "./components/Team/Team";
 
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
       <IntroSection />
       <WhyUs />
       <PracticeArea />
+      <Clients />
+      <Team />
     </>
   );
 }
