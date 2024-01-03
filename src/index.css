@@ -34,10 +34,6 @@ a {
   padding: 2px;
 }
 
-a:hover {
-  border-bottom: 2px solid var(--color-white);
-}
-
 
 
 p,

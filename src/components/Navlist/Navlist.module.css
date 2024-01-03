@@ -9,3 +9,7 @@
 .navList {
     font-size: 15px; 
 }
+
+.navList a:hover {
+    border-bottom: 2px solid var(--color-white);
+}
