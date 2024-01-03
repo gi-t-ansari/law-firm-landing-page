@@ -3,7 +3,7 @@ import styles from "./IntroSection.module.css"
 
 function IntroSection() {
   return (
-    <div className={styles.introWrapper}>
+    <div className={styles.introWrapper} id='attorneys'>
         <h1>Let's Introduce<br />Ourself</h1>
         <hr />
         <div>

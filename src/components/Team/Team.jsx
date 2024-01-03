@@ -44,7 +44,7 @@ const teamMembers = [
 
 function Team() {
   return (
-    <section className={styles.teamsSection}>
+    <section className={styles.teamsSection} id='about-us'>
         <h1>Our Team</h1>
         <div className={styles.teamsWrapper}>
             {
