@@ -40,7 +40,7 @@ function Footer() {
         </ul>
       </section>
       <div>
-        <span>© 2023 Tanzeel. All right reserved.</span>
+        <span>© 2024 Tanzeel. All right reserved.</span>
         <span>Privacy Policy</span>
         <span>Terms of Service</span>
       </div>

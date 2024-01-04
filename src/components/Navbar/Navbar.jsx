@@ -9,7 +9,9 @@ function Navbar() {
         <div>
             <Logo />
         </div>
-        <Navlist />
+        <div>
+          <Navlist />
+        </div>
         <button className={styles.contactBtn}>
           Contact Now
         </button>
